@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Glurch",
+    "description": "Un enorme limo que salta y aplasta a sus enemigos.",
+    "location": "Cueva de arcilla",
+    "imageUrl": "Glurch.webp"
+  },
+  {
+    "id": 2,
+    "name": "Gorm",
+    "description": "Un gusano gigante que recorre el mundo subterráneo.",
+    "location": "Anillo de la pradera",
+    "imageUrl": "Ghorm.webp"
+  },
+  {
+    "id": 3,
+    "name": "Malugaz",
+    "description": "Gran chamán cavernícola",
+    "location": "Ruinas olvidadas",
+    "imageUrl": "Malugaz.webp"
+  },
+  {
+    "id": 4,
+    "name": "Ra-Akar",
+    "description": "",
+    "location": "",
+    "imageUrl": "Ra-Akar.webp"
+  },
+  {
+    "id": 5,
+    "name": "Omoroth",
+    "description": "",
+    "location": "",
+    "imageUrl": "Omoroth.webp"
+  },
+  {
+    "id": 6,
+    "name": "Azeos",
+    "description": "",
+    "location": "",
+    "imageUrl": "Azeos.webp"
+  },
+  {
+    "id": 7,
+    "name": "Core Commander",
+    "description": "",
+    "location": "",
+    "imageUrl": "Core-Commander.webp"
+  }
+]
